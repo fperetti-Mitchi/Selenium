@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 
-public class PruebaSelenium2 {
+public class PruebaTituloSelenium {
     private WebDriver driver;
 
     @BeforeClass
